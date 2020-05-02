@@ -2,9 +2,12 @@
 
 def fizzBuzz(value):
     if isMultiplle(value , 3):
+        if isMultiplle(value , 5):
+            return "FizzBuzz"
         return "Fizz"
     if isMultiplle(value,5):
         return "Buzz"
+     
 
     return str(value)
 
