@@ -1,0 +1,8 @@
+# Created by pytest automatically.
+.vscode
+vscode
+/vscode
+.venv
+venv
+/venv
+
